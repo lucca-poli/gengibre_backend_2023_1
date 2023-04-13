@@ -1,7 +1,6 @@
 {
   "files": [
-    "./src/modules/*/infra/prisma/entities/*.prisma",
-    "./src/shared/infra/prisma/config.prisma"
+    "./src/modules/*/infra/prisma/entities/*.prisma"
   ],
   "output": "./src/shared/infra/prisma/schema.prisma"
 }

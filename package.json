@@ -5,7 +5,7 @@
     "license": "MIT",
     "author": "LuizCAzevedo <lucca10azevedo@gmail.com>",
     "prisma": {
-        "schema": "/src/shared/infra/prisma/schema.prisma"
+        "schema": "src/shared/infra/prisma/schema.prisma"
     },
     "scripts": {
         "dev": "ts-node-dev --inspect --transpile-only --ignore-watch node_modules src/server.ts"
